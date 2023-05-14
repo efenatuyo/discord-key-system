@@ -1,0 +1,15 @@
+{
+    "system": {
+        "keys": [
+            "vvcvsfjbspnlvyd"
+        ],
+        "users_with_keys": {
+            "965607288083718154": "vvcvsfjbspnlvyd"
+        }
+    },
+    "discord": {
+        "token": "",
+        "prefix": "$",
+        "access": [965607288083718154]
+    }
+}

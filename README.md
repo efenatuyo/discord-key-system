@@ -2,6 +2,8 @@
 
 advanced key system bot.
 
+if you need help join https://discord.gg/xolo
+
 ## commands
 
 ### generate_key
